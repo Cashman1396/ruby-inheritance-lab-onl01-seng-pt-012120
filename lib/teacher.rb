@@ -5,6 +5,4 @@ class Teacher < USer
   def teach 
     KNOWLEDGE.sample
   end
-
-  
 end

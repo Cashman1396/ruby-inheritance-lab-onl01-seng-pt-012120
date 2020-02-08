@@ -13,6 +13,4 @@ class Student
     @knowledge
   end 
   
-  
-
 end
